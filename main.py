@@ -29,10 +29,33 @@ print(type(age))
 ratio=2.5
 print(type(ratio))
 
-
 print("What is your name?")
 print("Your name please:")
 name = input()
 print(f"Hi {name},Congratulations!")
 
+# variables
+print("Hello World")
+fruits = "mangos"
+print(fruits)
+fruits = "apples"
+print(fruits)
+
+#Data types
+x=5
+y=3.5
+print(x+y)
+w=True
+z=False
+print(w)
+print(z)
+
+#Arithmetic Operators
+print(10 - 7)
+print(10 + 7)
+print(10 * 7)
+print(10 ** 7)
+print(10 / 7)
+print(10 // 7)
+print(10 % 7)
 """
