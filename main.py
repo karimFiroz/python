@@ -49,13 +49,23 @@ w=True
 z=False
 print(w)
 print(z)
-
-#Arithmetic Operators
-print(10 - 7)
-print(10 + 7)
-print(10 * 7)
-print(10 ** 7)
-print(10 / 7)
-print(10 // 7)
-print(10 % 7)
 """
+#Arithmetic Operators
+#print(10 - 7) #Substraction
+#print(10 + 7)#Addition
+#print(10 * 7)#Multiplication
+#print(10 ** 7)#Exponent
+#print(10 / 7)#division
+#print(10 // 7)#div result round figure ie, Floor division
+#print(10 % 7)#Remainder
+
+#Assignment Oprator
+#x=3
+#y=4
+#print(y + x)
+#print(y-x)
+#print(y*x)
+#print(y**x)
+#print(y/x)
+#print(x/y)
+#print(x//y)
