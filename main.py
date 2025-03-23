@@ -192,4 +192,10 @@
 #22. Accessing part of string
 #Using indexing
 
-
+#text="I LOVE PYTHON"
+#print(text)
+#print(text[0])
+#print(text[2])
+#print(text[3])
+#print(text[4])
+#print(text[5])
