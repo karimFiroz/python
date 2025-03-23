@@ -129,11 +129,44 @@
 #false convert true
 #true converts false
 
-x=15
-y=25
+#x=15
+#y=25
 
-logical_not=not x==y
-print(logical_not)
+#logical_not=not x==y
+#print(logical_not)
 
-logical_not=not x<y
-print(logical_not)
+#logical_not=not x<y
+#print(logical_not)
+
+#number: integer, float, string and boolean
+#w= True
+#x= 22/7
+#y= 22
+#z= "22"
+#print(type(w))
+#print(type(x))
+#print(type(y))
+#print(type(z))
+
+#methods
+#syntax-- round(number,digit)
+#pi=3.141592653589793238
+#print(round(pi,4))
+#print(round(pi,2))
+
+# Using exponant or power
+#syntax--pow(base,exponent)
+#x=pow(2,5)
+#print(x)
+
+#Getting absolute value
+#x=abs(-7)
+#print(x)
+#syntex---divmod(vaijjo,vajok) result(vagfol, vagses)
+
+#x=divmod(23,5)
+#print(x)
+
+#String method
+text='Hi,I am karim.I love "python"Programming.'
+print(text)
