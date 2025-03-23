@@ -1,23 +1,24 @@
 
-# for loop
+#1. for loop
 #for i in range(0,5):
 #print(i)
 
-# print String
+#2. print String
 #print('I am a student')
 #print("I am learning python")
 
 
-# print integer
+#3. print integer
 #print(3+2)
 #print((3+2)+5)
 
-
+#4. Variable
 #number=3+2
 #new_number=number+5
 #print(number)
 #print(new_number)
 
+#5. Data Type
 #name="Karim"
 #age=63
 #print(name)
@@ -26,22 +27,24 @@
 #print(type(name))
 #print(type(age))
 
+#6. Ratio
 #ratio=2.5
 #print(type(ratio))
 
+#7. Taking Input
 #print("What is your name?")
 #print("Your name please:")
 #name = input()
 #print(f"Hi {name},Congratulations!")
 
-# variables
+#8. variables
 #print("Hello World")
 #fruits = "mangos"
 #print(fruits)
 #fruits = "apples"
 #print(fruits)
 
-#Data types
+#9.Add Data types
 #x=5
 #y=3.5
 #print(x+y)
@@ -50,7 +53,7 @@
 #print(w)
 #print(z)
 
-#Arithmetic Operators
+#10. Arithmetic Operators
 #print(10 - 7) #Substraction
 #print(10 + 7)#Addition
 #print(10 * 7)#Multiplication
@@ -59,7 +62,7 @@
 #print(10 // 7)#div result round figure ie, Floor division
 #print(10 % 7)#Remainder
 
-#Assignment Oprator
+#11. Assignment Oprator
 #x=3
 #y=4
 #print(y + x)
@@ -72,7 +75,7 @@
 #x+=y #ie,x=x+y
 #print(x)
 
-#Comparision Operator true and false
+#12. Comparision Operator true and false
 #x=10
 #y=20
 #print(x!=y)#unequality
@@ -83,7 +86,7 @@
 #compare=x<y #check x<y
 #print(compare)
 
-#Logical Operator and, or ,not
+#13. Logical Operator and, or ,not
 
 #And Operator truth table
 #TT=True
@@ -138,7 +141,7 @@
 #logical_not=not x<y
 #print(logical_not)
 
-#number: integer, float, string and boolean
+#14.Types of number: integer, float, string and boolean
 #w= True
 #x= 22/7
 #y= 22
@@ -148,25 +151,45 @@
 #print(type(y))
 #print(type(z))
 
-#methods
+#15. methods
 #syntax-- round(number,digit)
 #pi=3.141592653589793238
 #print(round(pi,4))
 #print(round(pi,2))
 
-# Using exponant or power
+#16. Using exponant or power
 #syntax--pow(base,exponent)
 #x=pow(2,5)
 #print(x)
 
-#Getting absolute value
+#17. Getting absolute value
 #x=abs(-7)
 #print(x)
-#syntex---divmod(vaijjo,vajok) result(vagfol, vagses)
+#18.Reminder: syntex---divmod(vaijjo,vajok) result(vagfol, remainder)
 
 #x=divmod(23,5)
 #print(x)
 
-#String method
-text='Hi,I am karim.I love "python"Programming.'
-print(text)
+#19. String method Single quote and Double quote
+#text='Hi,I am karim.I love "python"Programming.'
+#print(text)
+
+#text="Hi,I am karim.I love 'python'Programming."
+#print(text)
+
+#20. Multi line string
+#text='''Python is easy to learn.
+#Python is one of the easy language.
+#Are you sure having fun?'''
+#print(text)
+
+#21. Concatinating string
+#a="Hello "
+#b="World!"
+#text=a+b
+#print(text)
+
+#22. Accessing part of string
+#Using indexing
+
+
