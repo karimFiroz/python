@@ -199,3 +199,23 @@
 #print(text[3])
 #print(text[4])
 #print(text[5])
+
+#23. String slicing
+#text="Python"
+#print(text[2:6])
+
+#24. String method
+#Capitalizing, Uppercase, Lowercase
+name="md. Abdul Karim"
+#x=name.capitalize() #Only 1st charecter upper and others lower
+#print(x)
+#x=name.upper() #Hole sentence upper
+#print(x)
+#x=name.lower() #Hole sentence lower
+#print(x)
+#print(len(name)) #Length of string
+#Replacing string value --Syntex("old word","new word")
+#text="Hello World!"
+#print(text)
+#y=text.replace("World","Firoz")
+#print(y)
