@@ -83,4 +83,57 @@
 #compare=x<y #check x<y
 #print(compare)
 
-#Logical Operator
+#Logical Operator and, or ,not
+
+#And Operator truth table
+#TT=True
+#FF=False
+#TF=False
+#FT=False
+#x=15
+#y=25
+
+#logical_and=x<y and y>x
+#print(logical_and)
+
+#logical_and=x>y and x==y
+#print(logical_and)
+
+#logical_and=x>y and y>x
+#print(logical_and)
+
+#logical_and=x<y and x==y
+#print(logical_and)
+
+#OR Operator truth table
+#FF=False
+#TT=True
+#TF=True
+#FT=True
+#x=15
+#y=25
+
+#logical_or=x>y or x==y
+#print(logical_or)
+
+#logical_or=x<y or y>x
+#print(logical_or)
+
+#logical_or=x<y or x==y
+#print(logical_or)
+
+#logical_or=x>y or y>x
+#print(logical_or)
+
+#not Operator truth table
+#false convert true
+#true converts false
+
+x=15
+y=25
+
+logical_not=not x==y
+print(logical_not)
+
+logical_not=not x<y
+print(logical_not)
