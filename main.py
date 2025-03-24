@@ -227,3 +227,19 @@
 #num2=input("Enter num2: ")
 #x=int(num1)+int(num2)
 #print(x)
+#List in python(arry) list is ordered container
+#pets=["cat","dog","cow","rabbit"]
+#print(pets)
+#(+)ve indexing  0,    1,    2,      3
+#               cat,  dog,  cow,   rabbit
+#(-)ve indexing -4,   -3,   -2,     -1
+#cat[-4],dog[-3],cow[-2],rabbit[-1],cat[0],dog[1],cow[2],rabbit[3]
+#print(pets[-4])
+#print(pets[-3])
+#print(pets[-2])
+#print(pets[-1])
+#print(pets[0])
+#print(pets[1])
+#print(pets[2])
+#print(pets[3])
+print('Hello world')
