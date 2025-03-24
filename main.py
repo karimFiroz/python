@@ -206,7 +206,7 @@
 
 #24. String method
 #Capitalizing, Uppercase, Lowercase
-name="md. Abdul Karim"
+#name="md. Abdul Karim"
 #x=name.capitalize() #Only 1st charecter upper and others lower
 #print(x)
 #x=name.upper() #Hole sentence upper
@@ -219,3 +219,11 @@ name="md. Abdul Karim"
 #print(text)
 #y=text.replace("World","Firoz")
 #print(y)
+
+#input function
+#name=input("Enter your name: ")
+#print("I am ",name)
+#num1=input("Enter num1: ")
+#num2=input("Enter num2: ")
+#x=int(num1)+int(num2)
+#print(x)
