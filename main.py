@@ -220,14 +220,14 @@
 #y=text.replace("World","Firoz")
 #print(y)
 
-#input function
+#25. input function
 #name=input("Enter your name: ")
 #print("I am ",name)
 #num1=input("Enter num1: ")
 #num2=input("Enter num2: ")
 #x=int(num1)+int(num2)
 #print(x)
-#List in python(arry) list is ordered container
+#26. List in python(arry) list is ordered container
 #pets=["cat","dog","cow","rabbit"]
 #print(pets)
 #(+)ve indexing  0,    1,    2,      3
@@ -242,4 +242,58 @@
 #print(pets[1])
 #print(pets[2])
 #print(pets[3])
-print('Hello world')
+
+#27. range of index
+#print(pets[1:3])
+#print(pets[0:3])
+
+#28. Adding item to a list
+#append method
+#print(pets)
+#pets.append("elephant")
+#print(pets)
+#29. insert method
+#pets.insert(0,"rat")
+#print(pets)
+#print(pets[0])
+#print(pets[4])
+#remove method
+#30. pets.remove("cow")
+#print(pets)
+#31. Length of the list
+#print(len(pets))
+#32. Changeing an Item of list
+#pets[2]="fish"
+#print(pets)
+#33. extending or merge two lists
+#num1=[1,2,3]
+#num2=[4,5,6,7]
+#num1.extend(num2)
+#print(num1)
+#34. delete last item
+#print(pets)
+#pets.pop()
+#print(pets)
+#delete last item
+#pets.pop()
+#print(pets)
+#delete last item
+#pets.pop()
+#print(pets)
+#remove method
+#print(pets)
+#pets.remove("dog")
+#print(pets)
+#35. membership operator in and not in
+#country=["Bangladesh","India","Pakisthan","England","Australia"]
+#check_item="India" in country
+#print(check_item)
+#check_item="Norway" in country
+#print(check_item)
+#check_item="Bangladesh" not in country
+#print(check_item)
+#check_item="Shrilanka" not in country
+#print(check_item)
+#36. Multi data type item remain in an array
+mixture=[2,2.5,"Firoz",True,False]
+print(mixture)
