@@ -357,5 +357,36 @@ def add_number(num1,num2):
     print(rem)
 
 add_number(4,3)
-
+"""
+#project-2
+"""
+# if statement
+x=30
+y=20
+#if statement
+if x<y:
+    #Body of if statement
+    print("x is smaller than y")
+else:
+    #Body of else part
+    print("x is grater than y")
+"""
+#project-3
+"""
+#Multiple condition
+x=-20
+y=20
+#if statement
+if x<y:
+    #Body of if statement
+    print("x is smaller than y")
+elif x>y:
+    #The body of elif part
+    print("x is grater than y")
+elif x==y:
+    #Body of elif part
+    print("x is equal to y")
+else:
+    #Body of else part
+    print("Enter right value")
 """
