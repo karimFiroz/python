@@ -295,5 +295,67 @@
 #check_item="Shrilanka" not in country
 #print(check_item)
 #36. Multi data type item remain in an array
-mixture=[2,2.5,"Firoz",True,False]
-print(mixture)
+#mixture=[2,2.5,"Firoz",True,False]
+#print(mixture)
+#37. tuple
+#country=("Bangladesh","India","Pakisthan","England","Australia")
+#print(type(country))
+#country[1] = "Norway"
+#print(country)
+#Can't change tuple item
+#38. function
+#Declearing function
+
+#def hello_world():
+    #function body which is execute
+    #print("Hello Karim!")
+#out of function
+#calling function re useable
+#hello_world()
+#hello_world()
+#hello_world()
+#hello_world()
+#hello_world()
+
+#39. function
+# Parameter(variable where declear in function ie,name) 
+# Argument(value of variable where calling function)
+
+#Declearing function using one parameter
+
+#def hello_world(name):
+    #function body which is execute
+  #x= "Hello "+ name
+  #print(x)
+#out of function
+#calling function re useable using different Argument(value)
+#hello_world("Firoz")
+#hello_world("Faruk")
+#hello_world("Farid")
+#hello_world("Miru")
+#hello_world("Beru")
+
+#40.Project-1: two integer using function
+"""
+def add_number(num1,num2):
+    sum = num1 + num2
+    print(sum)
+
+    sub = num1 - num2
+    print(sub)
+
+    mul = num1 * num2
+    print(mul)
+
+    div = num1 / num2
+    print(div)
+
+    exp = num1 ** num2
+    print(exp)
+
+    rem = num1 % num2
+    print(rem)
+
+add_number(4,3)
+
+"""
